@@ -1,11 +1,4 @@
-<!DOCTYPE HTML>
-
-<html>
-
-<head>
-
-
-<style>body, html {
+body, html {
 height: 100%;
 margin: 0;
 padding: 0;
@@ -152,18 +145,4 @@ z-index: 1;
 width: 100%;
 height: 100%;
 margin: auto;
-}</style>
-
-
- <script type="text/javascript" lang="javascript" src=Untitled2.js
-
- </script>
-
- <title>Untitled</title>
-</head>
-
-<body>
-
-</body>
-
-</html>
+}
